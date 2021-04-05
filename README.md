@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/adamworley?template=classic&languages=1&achievements=1&activity=1&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FLondon)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
