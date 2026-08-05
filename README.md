@@ -10,9 +10,9 @@ I also write at [**Wordley Blog**](https://blog.adamworley.com) — mostly about
 
 | | |
 | --- | --- |
-| [**Lizard**](https://github.com/AdamWorley/Lizard) | Declarative NixOS config for my machines |
-| [**fifa2026**](https://github.com/AdamWorley/fifa2026) | TypeScript side project for the 2026 World Cup |
-| [**exchequer**](https://github.com/AdamWorley/exchequer) | Go experiment in tracking money |
+| [**fifa2026**](https://github.com/AdamWorley/fifa2026) | An office World Cup sweepstake tracker with no database — the whole thing is encoded in the URL, so the share link *is* the state |
+| [**Lizard**](https://github.com/AdamWorley/Lizard) | Plays a sound whenever you type L-I-Z-A-R-D. Go, originally Rust. No, there isn't a good reason |
+| [**exchequer**](https://github.com/AdamWorley/exchequer) | A Go CLI for wrangling NuGet packages |
 | [**Monkey**](https://github.com/AdamWorley/Monkey) · [**rustis**](https://github.com/AdamWorley/rustis) | An interpreter in Go, a Redis clone in Rust — both for the fun of it |
 | Advent of Code | [2021 in Rust](https://github.com/AdamWorley/Advent-Of-Code-2021) · [2023 in C#](https://github.com/AdamWorley/AOC2023) · [2024 in Ruby](https://github.com/AdamWorley/AOC2024) |
 
