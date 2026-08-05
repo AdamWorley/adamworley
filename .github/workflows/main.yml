@@ -49,7 +49,9 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_rss: yes
+          # Disabled: Cloudflare Bot Fight Mode on blog.adamworley.com issues a managed
+          # challenge to the GitHub Actions runner, so the fetch returns 403.
+          plugin_rss: no
           plugin_rss_limit: 4
           plugin_rss_source: https://blog.adamworley.com/rss.xml
           plugin_stars: yes
